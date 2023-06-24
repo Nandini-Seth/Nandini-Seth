@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nandini-Seth
+- 👀 I’m interested in learning about everything, especially science-related stuff
+- 🌱 I’m currently in high school
+- 📫 How to reach me nandiniseth06@gmail.com
