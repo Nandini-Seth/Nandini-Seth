@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nandini-Seth
-- 👀 I’m interested in Cybersecurity, Quantum Computing, and AI
-- 🌱 I am a second year Computer Science student at University of Calgary
-- 📫 How to reach me: nandiniseth06@gmail.com
+- Hi, I’m @Nandini-Seth
+- I’m interested in Cybersecurity, Quantum Computing, and AI
+- I am a third year Computer Science student at University of Calgary
+- How to reach me: nandiniseth06@gmail.com
